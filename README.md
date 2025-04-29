@@ -1,4 +1,5 @@
-DataBot
+**DataBot**
+
 An interactive chatbot that combines the power of the OpenAI ChatGPT API with data analysis and visualization in a user-friendly interface.
 
 Main Features
