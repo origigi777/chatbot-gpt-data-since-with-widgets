@@ -33,3 +33,4 @@ Edit
 > Upload a CSV file with sales data
 > Analyze trends by quarter and show a line chart
 > Display a table of top-selling products
+![proj](https://github.com/user-attachments/assets/e68cc718-ad86-4080-8720-4c98714515a7)
